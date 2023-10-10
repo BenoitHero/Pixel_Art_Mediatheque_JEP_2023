@@ -2,7 +2,7 @@
  * Etape 1
  * Changer le nom de la collection pour créer un nouveau jeu
  */
-const GAME_COLLECTION_NAME = 'Pixel Art - Journees du Patrimoine 2023';
+const GAME_COLLECTION_NAME = 'application_journees_de_larchitecture2';
 /**
  * Etape 2
  * Editer la taille du jeu
