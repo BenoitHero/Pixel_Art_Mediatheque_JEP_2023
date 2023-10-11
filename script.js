@@ -49,9 +49,9 @@ let pixelSize = 1;
 const ctx = game.getContext('2d');
 const gridCtx = game.getContext('2d');
 const colorList = [
-    "#000000", "#1D2B53", "#7E2553", "#008751", "#9A6348", "#5F574F",
-    "#C2C3C7", "#FFF1E8", "#FF004D", "#FFA300", "#FFEC27", "#00E436", "#29ADFF", "#83769C",
-    "#FF77A8", "#FFCCAA"
+    "#8C8FAE", "#584563", "#3E2137", "#9A6348", "#D79B7D", "#F5EDBA",
+    "#C0C741", "#647D34", "#E4943A", "#9D303B", "#D26471", "#70377F", "#7EC4C1", "#34859D",
+    "#17434B", "#1F0E1C"
 ];
 let currentColorChoice = colorList[9];
 
