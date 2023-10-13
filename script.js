@@ -24,13 +24,13 @@ const HAUTEUR_DU_JEU = 700;
 //     appId: "1:735644169756:web:7c80c4445272d1545a51d9"
 //   };
 const firebaseConfig = {
-    apiKey: "AIzaSyBvYVDnSuawS324pcrOMDBRLuYxFVvRapc",
-    authDomain: "pixel-art-patrimoine.firebaseapp.com",
-    projectId: "pixel-art-patrimoine",
-    storageBucket: "pixel-art-patrimoine.appspot.com",
-    messagingSenderId: "57605428481",
-    appId: "1:57605428481:web:965955b0118b0efc143700",
-    measurementId: "G-GYXJ4CL4L2"
+    apiKey: "AIzaSyBOK-by6wjcXve9xaTDo9Y_agvL4JQJySE",
+    authDomain: "pixel-art-journ-archi.firebaseapp.com",
+    projectId: "pixel-art-journ-archi",
+    storageBucket: "pixel-art-journ-archi.appspot.com",
+    messagingSenderId: "309053835186",
+    appId: "1:309053835186:web:57ec32e28cd6c1ab9106ab",
+    measurementId: "G-G2PQ6GX79Z"
   };
 
 /*********************/
